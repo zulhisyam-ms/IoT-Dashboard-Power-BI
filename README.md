@@ -4,8 +4,8 @@
 This repository showcases a public-facing **IoT Data Visualization Dashboard** deployed to monitor critical system performance metrics. The project translates raw, high-frequency streams from network infrastructures and sensor endpoints into interactive, actionable business intelligence KPIs to support automated system health evaluation and rapid operational monitoring.
 
 ## 🛠️ Tech Stack & Analytical Capabilities
-- [cite_start]**Visualization Tool:** Power BI Desktop / Microsoft Portal Deployment [cite: 54, 55]
-- [cite_start]**Data Engineering:** Power Query (ETL, Data Transformation, Cleaning) [cite: 58, 66, 67]
+- **Visualization Tool:** Power BI Desktop / Microsoft Portal Deployment 
+- **Data Engineering:** Power Query (ETL, Data Transformation, Cleaning) 
 - **Data Modeling:** Star Schema Design, Relationship Mapping (1:Many), Cross-filtering Optimization
 - **Languages:** DAX (Data Analysis Expressions) for custom calculated measures
 
